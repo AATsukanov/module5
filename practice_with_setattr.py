@@ -7,6 +7,8 @@ class User:
 
     def __init__(self, *args, **kwargs):
         print('я в __init__')
+        self.args = args
+
         for key, value in kwargs.items():
             setattr(self, key, value)
 
