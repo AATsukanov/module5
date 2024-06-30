@@ -73,7 +73,7 @@ class House:
         return self.nFloors
 
     def __str__(self):
-        return self.name
+        return f'Название: {self.name}, кол-во этажей: {self.nFloors}.'
 
 def main():
     # №1
