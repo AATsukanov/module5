@@ -29,6 +29,7 @@ class User:
 
     def __contains__(self, item):
         return self.nickname == item
+
 class Video:
     '''
     Каждый объект класса Video должен обладать следующими атрибутами и методами:
@@ -135,6 +136,10 @@ class UrTube:
         if v is None:
             print('Видео не найдено.')
             return
+        if v.adult_mode and self.current_user.age < 18:
+            print('Ограничение на просмотр 18+')
+            return
+
         #play:
         for t in range(v.duration):
             print(t + 1, end=' > ')
