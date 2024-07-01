@@ -178,6 +178,7 @@ def main():
     # Выход:
     ur.log_out()
 
+    # Вход и проверка 3-го видео:
     ur.add(v3)
     vv = ur.get_videos('3')
     print(vv)
