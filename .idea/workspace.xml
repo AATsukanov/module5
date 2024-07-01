@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9132f0f3-0148-466f-8022-f6f25c73c642" name="Changes" comment="добавлены примеры практических занятий к модулю 5">
-      <change afterPath="$PROJECT_DIR$/module5hard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9132f0f3-0148-466f-8022-f6f25c73c642" name="Changes" comment="добавлено решение module5hard + проверка возраста пользователя" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_5_3_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_with_setattr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.singleton.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.module5hard.executor": "Run",
+    "Python.module_5_1.executor": "Run",
+    "Python.module_5_3.executor": "Run",
+    "Python.module_5_3_2.executor": "Run",
+    "Python.practice_with_setattr.executor": "Run",
+    "Python.singleton.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -164,7 +161,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719777292671</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="добавлены примеры практических занятий к модулю 5">
+      <option name="closed" value="true" />
+      <created>1719844504588</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1719844504588</updated>
+    </task>
+    <task id="LOCAL-00015" summary="добавлено решение module5hard">
+      <option name="closed" value="true" />
+      <created>1719845005461</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1719845005461</updated>
+    </task>
+    <task id="LOCAL-00016" summary="добавлено решение module5hard + проверка возраста пользователя">
+      <option name="closed" value="true" />
+      <created>1719846046959</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1719846046959</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +209,8 @@
     <MESSAGE value="Волшебство с setattr(self, key, value)!" />
     <MESSAGE value="Добавлено решение module_5_3 №2." />
     <MESSAGE value="добавлены примеры практических занятий к модулю 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены примеры практических занятий к модулю 5" />
+    <MESSAGE value="добавлено решение module5hard" />
+    <MESSAGE value="добавлено решение module5hard + проверка возраста пользователя" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлено решение module5hard + проверка возраста пользователя" />
   </component>
 </project>
